@@ -98,6 +98,8 @@ a:active{
     justify-content: space-evenly;
     text-align: center;
     vertical-align: middle;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .box{
     width: 300px;
